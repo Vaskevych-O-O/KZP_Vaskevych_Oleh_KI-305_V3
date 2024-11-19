@@ -1,0 +1,19 @@
+Dog created with owner: Marie, breed: Border Collie, dog tag: 6592
+Dog created with owner: Marie, breed: Border Collie, dog tag: 6592
+Dog created with owner: Adison, breed: Boston Terrier, dog tag: 4152
+Dog is barking!
+Dog is barking!
+Experimental dog is being trained.
+Experimental dog is performing a trick.
+Dog created with owner: Marie, breed: Border Collie, dog tag: 6592
+Dog created with owner: Adison, breed: Boston Terrier, dog tag: 4152
+Dog is barking!
+Dog is barking!
+Experimental dog is being trained.
+Experimental dog is performing a trick.
+Dog created with owner: Marie, breed: Border Collie, dog tag: 6592
+Dog created with owner: Adison, breed: Boston Terrier, dog tag: 4152
+Dog is barking!
+Dog is barking!
+Experimental dog is being trained.
+Experimental dog is performing a trick.
