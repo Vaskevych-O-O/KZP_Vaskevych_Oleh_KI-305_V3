@@ -1,0 +1,11 @@
+Experimental dog is being trained.
+Dog rolled over.
+Dog is eating: dog food
+Dog is sleeping.
+Dog is playing with:  frisbee
+Dog is being groomed.
+Experimental dog is being trained.
+Experimental dog is performing a trick.
+Owner set to: Alice
+Breed set to: Golden Retriever
+Dog tag set to: 123456
