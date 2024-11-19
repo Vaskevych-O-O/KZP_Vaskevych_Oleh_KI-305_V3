@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki305.vaskevych.lab6","l":"HouseholdPackage"},{"p":"ki305.vaskevych.lab6","l":"Main"}];updateSearchResults();

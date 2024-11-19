@@ -1,0 +1,11 @@
+Dog is barking!
+Dog fetched: ball
+Dog is sitting.
+Dog rolled over.
+Dog is eating: dog food
+Dog is sleeping.
+Dog is playing with:  frisbee
+Dog is being groomed.
+Owner set to: Alice
+Breed set to: Golden Retriever
+Dog tag set to: 123456
